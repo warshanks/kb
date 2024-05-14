@@ -33,6 +33,7 @@
 
  Space is the place for custom keycaps, keyboards, and coiled cables.
     Explore a diverse range of customization options to give your workspace a sophisticated edge. Upgrade your keyboard game now with our custom keycaps, keyboard cables, computer peripherals, and more!
+
  ![Space is the place for custom keycaps, keyboards, and coiled cables.](https://images-ext-1.discordapp.net/external/Puc9ZyOwUORDMFu9bOamDFgHksydOIJ0B6DX6uzbbbo/%3Fv%3D1684020638/https/spaceholdings.net/cdn/shop/files/Space_Logo_PNG_a24b5019-f168-475f-a58a-e1bebe3ef9f1.png?format=webp&quality=lossless&width=594&height=594)
 
 - [Keychron](https://www.keychron.com/ "https://www.keychron.com/")
