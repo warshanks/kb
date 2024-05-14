@@ -10,6 +10,11 @@
   Located in the Bay Area, Cupertino California. We provide fast next day shipping of high quality office and gaming keyboard products at competitive prices. We work with keyboard switch manufacturers (C³EQUALZ, Gateron, Cherry MX, TTC, Gazzew) to provide the best selection of keyboards, switches, keycaps, & more.
  ![Custom mechanical keyboard switches, keycaps and accessories](https://images-ext-1.discordapp.net/external/ukXzvDfCpI5M1Cm6-ZUdGRFci17FgFgSVqiLT1nqv_s/%3Fv%3D1635832705/https/www.thockking.com/cdn/shop/files/O1CN012RdpQg1wGHtnscEmx__51786280_d85a5b60-5af5-4c02-b2c1-08365e8156b3_1200x1200.jpg?format=webp&width=800&height=500)
 
+- [Kinetic Labs](https://kineticlabs.com/ "https://kineticlabs.com/")
+
+  Buy mechanical keyboard parts for your custom builds. Our inventory includes switches, Krytox lube, keycaps, desk mats, pads, and more keyboard parts.
+ ![Kinetic Labs](https://res.cloudinary.com/kineticlabs/image/upload/q_auto/c_fit,w_1600/v1/api-images/home/hero/DSC07294photoshop-2_usqqcn?_a=ATAEtAA0)
+
 - [KBDfans](https://kbdfans.com/)
   
   Build your own mechanical keyboard, starting here!
@@ -19,12 +24,6 @@
 
   Lume Keebs is a US-based online retail serving the mechanical keyboard community with high quality curated switches, custom designed accessories, and more. Curated mechanical keyboard switches with custom designed accessories.
  ![Lume Keebs](https://lumekeebs.com/cdn/shop/files/logo_black3_492db39b-d697-4b41-8041-70b0857d1141.png?v=1676261353&width=400)
-
-- [Milktooth](https://milktooth.com/)
-
-   The widest selection of switches at the best prices. Exclusively at Milktooth.
-
-  ![Milktooth](https://milktooth.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmilktooth%2Fimage%2Fupload%2Fv1681002895%2Fmilktooth_logo_678x114_f8ybpe.png&w=1920&q=75)
 
 - [NovelKeys](https://novelkeys.com/)
 
@@ -52,14 +51,18 @@
 - [Unikeys](https://unikeyboards.com/)
 
   We are Unikeys. An all-in-one custom mechanical keyboard supply store for keyboard enthusiasts! Explore a vast selection of top trending and quality keyboard switch, custom keycaps, and keyboard accessories to personalize your mechanical keyboard experience.
- ![Unikeys](https://images-ext-1.discordapp.net/external/gX6QxaidpRWK8rimdGZSOkdsNQMky9lKAfGITlBZHO0/%3Fv%3D1697142965%26width%3D2048/http/unikeyboards.com/cdn/shop/files/UNIKEYS_LOGO2_da84a3db-2dc1-464d-b267-b79f372023f2.jpg?format=webp&width=156&height=160)
+
+  ![Unikeys](https://images-ext-1.discordapp.net/external/gX6QxaidpRWK8rimdGZSOkdsNQMky9lKAfGITlBZHO0/%3Fv%3D1697142965%26width%3D2048/http/unikeyboards.com/cdn/shop/files/UNIKEYS_LOGO2_da84a3db-2dc1-464d-b267-b79f372023f2.jpg?format=webp&width=156&height=160)
 
 - [Drop.com](https://drop.com/mechanical-keyboards/drops)
 
   Discover the best mechanical keyboards from the Mechanical Keyboards enthusiast community on Drop. New and innovative Mechanical Keyboards, Keycaps, Switches & more.
  ![Drop](https://mma.prnewswire.com/media/878362/Drop_Logo.jpg?p=publish)
 
-- [Kinetic Labs](https://kineticlabs.com/ "https://kineticlabs.com/")
+## Switch Only Vendors
 
-  Buy mechanical keyboard parts for your custom builds. Our inventory includes switches, Krytox lube, keycaps, desk mats, pads, and more keyboard parts.
- ![Kinetic Labs](https://res.cloudinary.com/kineticlabs/image/upload/q_auto/c_fit,w_1600/v1/api-images/home/hero/DSC07294photoshop-2_usqqcn?_a=ATAEtAA0)
+- [Milktooth](https://milktooth.com/)
+
+   The widest selection of switches at the best prices. Exclusively at Milktooth.
+
+  ![Milktooth](https://milktooth.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmilktooth%2Fimage%2Fupload%2Fv1681002895%2Fmilktooth_logo_678x114_f8ybpe.png&w=1920&q=75)
