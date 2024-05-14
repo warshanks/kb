@@ -24,7 +24,7 @@
 
    The widest selection of switches at the best prices. Exclusively at Milktooth.
 
- ![Milktooth](https://milktooth.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmilktooth%2Fimage%2Fupload%2Fv1681002895%2Fmilktooth_logo_678x114_f8ybpe.png&w=1920&q=75)
+  ![Milktooth](https://milktooth.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmilktooth%2Fimage%2Fupload%2Fv1681002895%2Fmilktooth_logo_678x114_f8ybpe.png&w=1920&q=75)
 
 - [NovelKeys](https://novelkeys.com/)
 
