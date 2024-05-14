@@ -24,11 +24,11 @@
 
 - 🔴 Cherry MX Red
 - ⚫ Cherry MX Black
-- ⚪ Cherry MX Black Clear Top
+- ⚫⚪ Cherry MX Black Clear Top
 - ⚪ Cherry MX Speed Silver
 
 #### Silent Linear
 
-- 🔴 Cherry Silent Red aka Pinks
+- 🔴⚪ Cherry Silent Red aka Pinks
 
 ## Interested 🔍
