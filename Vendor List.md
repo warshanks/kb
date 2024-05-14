@@ -38,11 +38,6 @@
 
   ![Space is the place for custom keycaps, keyboards, and coiled cables.](https://images-ext-1.discordapp.net/external/Puc9ZyOwUORDMFu9bOamDFgHksydOIJ0B6DX6uzbbbo/%3Fv%3D1684020638/https/spaceholdings.net/cdn/shop/files/Space_Logo_PNG_a24b5019-f168-475f-a58a-e1bebe3ef9f1.png?format=webp&quality=lossless&width=594&height=594)
 
-- [Keychron](https://www.keychron.com/ "https://www.keychron.com/")
-
-  Keychron | Custom Mechanical Keyboards for Mac, Windows and Phones
- ![Keychron | Custom Mechanical Keyboards for Mac, Windows and Phones](https://images-ext-1.discordapp.net/external/acZlLkEWK16UuCthPUd1OMedSCeluOYzeNf0ypgvjuc/%3Fcrop%3Dcenter%26height%3D1200%26v%3D1708499541%26width%3D1200/http/www.keychron.com/cdn/shop/files/Keychron-V3-MAX-Socialmedia-1.jpg?format=webp&width=800&height=418)
-
 - [Divinikey](https://divinikey.com/)
 
   Divinikey is a US-based online retail establishment serving the mechanical keyboard community with top quality customs, DIY kits, keycaps, switches, deskmats, lubricant, and parts.
@@ -58,6 +53,13 @@
 
   Discover the best mechanical keyboards from the Mechanical Keyboards enthusiast community on Drop. New and innovative Mechanical Keyboards, Keycaps, Switches & more.
  ![Drop](https://mma.prnewswire.com/media/878362/Drop_Logo.jpg?p=publish)
+
+## Keyboard Manufacturers
+
+- [Keychron](https://www.keychron.com/ "https://www.keychron.com/")
+  
+  Keychron | Custom Mechanical Keyboards for Mac, Windows and Phones
+ ![Keychron | Custom Mechanical Keyboards for Mac, Windows and Phones](https://images-ext-1.discordapp.net/external/acZlLkEWK16UuCthPUd1OMedSCeluOYzeNf0ypgvjuc/%3Fcrop%3Dcenter%26height%3D1200%26v%3D1708499541%26width%3D1200/http/www.keychron.com/cdn/shop/files/Keychron-V3-MAX-Socialmedia-1.jpg?format=webp&width=800&height=418)
 
 ## Switch Only Vendors
 
