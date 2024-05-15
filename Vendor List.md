@@ -49,6 +49,18 @@
 
   ![Unikeys](https://images-ext-1.discordapp.net/external/gX6QxaidpRWK8rimdGZSOkdsNQMky9lKAfGITlBZHO0/%3Fv%3D1697142965%26width%3D2048/http/unikeyboards.com/cdn/shop/files/UNIKEYS_LOGO2_da84a3db-2dc1-464d-b267-b79f372023f2.jpg?format=webp&width=156&height=160)
 
+- [Swagkeys](https://swagkeys.com/)
+
+  Swagkeys is the one-stop-shop for all your Mechanical Keyboard needs. We have various products ranging all the way from Switches, Keycaps, Lube, Tools and more!
+
+  ![Swagkeys | All-in-one Custom Keyboard Shop](https://swagkeys.com/cdn/shop/files/SW_Logo.png?crop=center&height=1200&v=1712038850&width=1200)
+
+- [Cablemod](https://store.cablemod.com/cablemod-keyboard-cables/)
+  
+  Custom keyboard cables and keycaps
+  
+  ![Cablemod](https://store-cdn.cablemod.com/wp-content/uploads/2014/12/cm_logo_180.png)
+
 - [Drop.com](https://drop.com/mechanical-keyboards/drops)
 
   Discover the best mechanical keyboards from the Mechanical Keyboards enthusiast community on Drop. New and innovative Mechanical Keyboards, Keycaps, Switches & more.
