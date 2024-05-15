@@ -103,3 +103,4 @@ These switches are sold by Thock King in their [testers](https://www.thockking.c
 - 🌸 **Kailh Box Pink 55g**
 - ⚓ **Kailh Box Navy 60g**
 - 🟦 **Kailh Pale Blue**
+  
