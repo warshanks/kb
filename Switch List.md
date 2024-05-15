@@ -1,4 +1,4 @@
-# Shanks' Switch List
+# Shanks' Mechanical Switch List
 
 ## Owned Switches
 
