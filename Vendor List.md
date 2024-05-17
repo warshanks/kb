@@ -51,6 +51,12 @@ The best mechanical keyboards and customer support.
 
 [![Space is the place for custom keycaps, keyboards, and coiled cables.](https://images-ext-1.discordapp.net/external/Puc9ZyOwUORDMFu9bOamDFgHksydOIJ0B6DX6uzbbbo/%3Fv%3D1684020638/https/spaceholdings.net/cdn/shop/files/Space_Logo_PNG_a24b5019-f168-475f-a58a-e1bebe3ef9f1.png?format=webp&quality=lossless&width=594&height=594)](https://spaceholdings.net/)
 
+### [Chubbycable](https://chubbycable.com/collections/chubby-cable)
+
+  Custom chubby USB, USB-C, & Lightning cables from ChubbyTech.
+
+[![Chubbycable](https://chubbycable.com/cdn/shop/files/111_5bacec1b-68fb-427e-a3a6-ea70dab886c7_1200x1200.jpg)](https://chubbycable.com/collections/chubby-cable)
+
 ### [Divinikey](https://divinikey.com/)
 
   Divinikey is a US-based online retail establishment serving the mechanical keyboard community with top quality customs, DIY kits, keycaps, switches, deskmats, lubricant, and parts.
