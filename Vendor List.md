@@ -32,6 +32,12 @@ The best mechanical keyboards and customer support.
 
 [![Epomaker](https://epomaker.com/cdn/shop/files/rt100_7f9b3805-6e50-4f01-8736-8e313ad2fdf3.jpg?v=1705628486)](https://epomaker.com)
 
+### [CannonKeys](https://cannonkeys.com)
+
+  CannonKeys - mechanical keyboard kits, custom keyboard parts, and supplies for new and seasoned enthusiasts.
+
+[![CannonKeys](https://cannonkeys.com/cdn/shop/files/cannon_keys_raster_e141e3d6-0f12-42ca-9bed-a16e16380cfc_1200x1200.png?v=1658715926)](https://cannonkeys.com)
+
 ### [Lume Keebs](https://lumekeebs.com/)
 
   Lume Keebs is a US-based online retail serving the mechanical keyboard community with high quality curated switches, custom designed accessories, and more. Curated mechanical keyboard switches with custom designed accessories.
